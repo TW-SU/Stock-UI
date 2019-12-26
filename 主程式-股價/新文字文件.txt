@@ -1,0 +1,3 @@
+cd C:\Users\孫乂\Desktop\分析軟體\主程式
+
+pyuic5 MyFirstUI.ui > MyFirstUI.py
